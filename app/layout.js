@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "SSR & SSG",
-  description: "",
+  description: "server-side rendering (SSR), static-site generation (SSG), in next.js 13 & 14 ",
 };
 
 export default function RootLayout({ children }) {
